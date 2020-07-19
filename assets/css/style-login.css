@@ -1,0 +1,101 @@
+body{
+	background-color: #F4FBFF !important;
+}
+
+.navbar{
+	box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+.login-container{
+	margin-left: 23% !important;
+    margin-top: 7.5% !important;
+    margin-bottom: 5%;
+    
+}
+
+.nomargin{
+    margin: 0 !important;
+}
+
+.main-text{
+	background-color: #fff;
+    padding: 5%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}	
+
+.main-text h1{
+    text-align: center;
+    color: #333;
+}
+
+.main-par h5{
+	text-align: center;
+	line-height: 1.5em;
+	align-content: #333;
+}
+
+.btnSubmit #wa-send{
+	background-color: red !important;
+}
+
+.form-group{
+	padding-top: 5%;
+}
+
+.btnSubmit .wa-btn{
+	height: auto;
+}
+
+.wa-send{
+	border-radius: 0px !important;
+	margin-top: 4%;
+	margin-left: 100px;
+}
+
+.btn{
+	width: 40%;
+	margin-top: 3%;
+	margin-left: 32%;
+	background-color: #00E676 !important;
+	color: #ffffff !important;
+}
+
+.login-form{
+	height: 400px;
+    padding: 5%;
+    background: #0062cc;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+
+.login-form h3{
+    text-align: center;
+    color: #fff;
+}
+
+.login-container form{
+    padding: 2%;
+}
+
+.btnSubmit{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+
+.main-text .btnSubmit{
+    font-weight: 600;
+    color: #fff;
+    background-color: #0062cc;
+}
+
+.login-form .btnSubmit{
+    font-weight: 600;
+    color: #0062cc;
+    background-color: #fff;
+}
+
+.lgn-btn{
+	padding-top: 6%;
+}

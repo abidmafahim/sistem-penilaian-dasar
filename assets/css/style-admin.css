@@ -1,0 +1,39 @@
+body{
+	background: #F6F6FB !important;
+}
+
+.username{
+	text-decoration: none !important;
+	color: rgba(0,0,0,0.6); !important;
+	font-weight: bold;
+}
+
+.container-fluid{
+	margin-left: 0;
+}
+
+.wrapper .d-flex{
+	background: white !important;
+	min-height: 100vh !important;
+	width: inherit !important;
+}
+
+.list-group{
+	background-color: white;
+	height: ;
+}
+
+.main-panel{
+	width: inherit;
+	height: 100vh;
+}
+
+.home{
+	
+}
+
+.welcome{
+	text-align: center;
+	/*margin-top: 50%;
+	margin-left: 50%;*/
+}
